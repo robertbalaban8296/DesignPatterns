@@ -1,0 +1,9 @@
+The Strategy Pattern defines a family of algorithms (in our cases, behaviors), encapsulate each one,
+and make the interchangeable.
+
+Key words:
+    - change behavior at run time
+    - composition
+    - favor composition over inheritance
+    - program to an interface, not an implementation
+    - identify the aspects that vary and separates them from what stays the same
