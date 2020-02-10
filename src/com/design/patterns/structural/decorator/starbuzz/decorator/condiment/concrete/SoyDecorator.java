@@ -1,4 +1,7 @@
-package com.design.patterns.structural.decorator.starbuzz;
+package com.design.patterns.structural.decorator.starbuzz.decorator.condiment.concrete;
+
+import com.design.patterns.structural.decorator.starbuzz.component.main.Beverage;
+import com.design.patterns.structural.decorator.starbuzz.decorator.condiment.concrete.main.CondimentDecorator;
 
 public class SoyDecorator extends CondimentDecorator {
 
